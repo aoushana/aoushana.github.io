@@ -9,6 +9,10 @@ body {
   text-align: center;
 }
 
+.img-circle {
+    border-radius: 50%;
+}
+
 p {
     line-height: 20px;
     background-color: #f2e5e4;
