@@ -9,10 +9,8 @@ body {
   text-align: center;
 }
 
-.parallax-container {
-      position: relative;
-      overflow: hidden;
-    
+.parallax {
+      z-index: 1;
   }
 
 .img-circle {
